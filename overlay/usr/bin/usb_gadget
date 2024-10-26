@@ -7,7 +7,7 @@
 . /etc/profile
 
 UMS_EN=off
-ADB_EN=off
+ADB_EN=on
 MTP_EN=off
 NTB_EN=off
 ACM_EN=off
